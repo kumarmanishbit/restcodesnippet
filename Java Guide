@@ -1,0 +1,8 @@
+There are two main API's defined by Java for developing web service applications since JavaEE 6.
+
+1) JAX-WS: for SOAP web services. The are two ways to write JAX-WS application code: by RPC style and Document style.
+
+2) JAX-RS: for RESTful web services. There are mainly 2 implementation currently in use for creating JAX-RS application: Jersey and RESTeasy.
+
+We can create JAX-RS example by jersey implementation. To do so, you need to load jersey jar files or use maven framework.
+
